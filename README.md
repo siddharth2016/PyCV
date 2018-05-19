@@ -20,3 +20,7 @@ It contains:
 It contains:
 
 * Watershed and GrabCUT algorithm over an image
+
+### Face Detection Folder
+
+It contains **Face**, **Eyes** and **Smile** detection on an image, carried out using Haar Cascade functionality (CascadeClassifier) provided by OpenCV3.
