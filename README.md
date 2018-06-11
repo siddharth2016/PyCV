@@ -24,3 +24,10 @@ It contains:
 ### Face Detection Folder
 
 It contains **Face**, **Eyes** and **Smile** detection on an image, carried out using Haar Cascade functionality (CascadeClassifier) provided by OpenCV3.
+
+### Feature Extraction Folder
+
+It contains:
+
+* Feature extraction using Harris Corner detection, SIFT and SURF methods of OpenCV3.
+* Feature matching using Brute Force Matcher and KNN-Matcher of OpenCV3.
