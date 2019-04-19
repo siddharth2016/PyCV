@@ -36,7 +36,7 @@ class Filters:
         return blur
 
 if __name__ == "__main__":
-    I = Filters("1.jpg")
+    I = Filters("3.jpg")
     emb = I.Embossed()
     med = I.MedianBlur()
     lap = I.Laplace()
